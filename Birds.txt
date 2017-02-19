@@ -1,0 +1,37 @@
+Cardinal, 2
+House Sparrow, 1
+House Wren, 2
+Cardinal, 1
+Robin, 1
+Cardinal, 2
+House Wren, 2
+House Sparrow, 1
+House Sparrow, 1
+House Finch, 2
+Cardinal, 1
+House Finch, 3
+Robin, 1
+House Sparrow, 3
+House Wren, 2
+House Finch, 1
+House Finch, 3
+Starling, 1
+Starling, 2
+Downy Woodpecker, 3
+American Crow, 1
+Blue Jay, 2
+House Sparrow, 1
+Starling, 1
+House Sparrow, 2
+House Wren, 1
+Downy Woodpecker, 3
+Robin, 2
+Starling, 1
+Cardinal, 1
+Song Sparrow, 3
+Downy Woodpecker, 2
+Cardinal, 3
+Starling, 1
+House Wren, 1
+House Wren, 1
+Starling, 3
