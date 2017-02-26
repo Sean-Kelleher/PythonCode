@@ -1,3 +1,14 @@
+def fileList(filename):
+    file = open(filename)
+    l = []
+    for line in file:
+        l.append(line)
+    return l
+        
+def userList(prompt):
+    print prompt,
+    l = raw_input().split(",")
+    return l
 
 def largestFromList(l):
     largest = l[0]
@@ -15,7 +26,7 @@ def printList(list):
         if word in ["COOKIES", "cookies"]:
             print "_______"
         else:
-            print word
+            print "        " + word
 
 def promptInt(prompt):
     print prompt,
