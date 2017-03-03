@@ -1,3 +1,10 @@
+def findItem(dictionary, item):
+    ret = ""
+    for i in dictionary:
+        if dictionary[i] == item:
+            ret = i
+    return ret;
+
 def fileList(filename):
     file = open(filename)
     l = []
@@ -11,10 +18,17 @@ def userList(prompt):
     return l
 
 def largestFromList(l):
+    # Returns -1 if it's a tie
     largest = l[0]
+    tieCount = -1
     for i in l:
+        if i == largest:
+            tieCount += 1
         if i > largest:
             largest = i
+        
+    if tieCount > 0:
+        largest = -1
     return largest
     
 def wordPrompt(word):
