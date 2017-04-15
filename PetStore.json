@@ -1,0 +1,13 @@
+[
+{"Product" : "Purfect Pet Feeder", "Category": "Food", "Price" : 55.99},
+{"Product" : "Low Calorie Snacks", "Category": "Food", "Price" : 12.95},
+{"Product" : "Food Saver Container", "Category": "Food", "Price" : 8.95},
+{"Product" : "Greenies Cat Snacks", "Category": "Food", "Price" : 5.99},
+{"Product" : "Fuzzy Bird", "Category": "Toys", "Price" : 3.99},
+{"Product" : "Buzz Bird", "Category": "Toys", "Price" : 5.95},
+{"Product" : "Mister Mouse", "Category": "Toys", "Price" : 12.95},
+{"Product" : "Super Tree", "Category": "Furniture", "Price" : 120.99},
+{"Product" : "Cat Tent", "Category": "Furniture", "Price" : 19.99},
+{"Product" : "Scratch Away", "Category": "Furniture", "Price" : 19.99},
+{"Product" : "Kittie Hideout", "Category": "Furniture", "Price" : 12.95}
+]
